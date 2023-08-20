@@ -2,7 +2,7 @@
 
 ### I'm Khana! 
 
-:point_right: A first year taking up Computer Science at Naga College Foundation :purple_heart:
+:point_right: A Second Year taking up Computer Science at Naga College Foundation :purple_heart:
 
 <!--
 **Khana-Coralde/Khana-Coralde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord (Kasey💀#9950)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I like cats, coffee and lofi
-- :notebook_with_decorative_cover: Interested in learning: game development and AI ( like jarvis from ironman).
+- :notebook_with_decorative_cover: Interested in learning: game development and AI ( like Jarvis from ironman).
 
 :point_right: I'll be updating this as time goes by. 
 
