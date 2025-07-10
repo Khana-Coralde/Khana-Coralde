@@ -2,7 +2,7 @@
 
 ### I'm Khana! 
 
-:point_right: A Second Year taking up Computer Science at Naga College Foundation :purple_heart:
+:point_right: Fourth Year taking up Computer Science at Naga College Foundation :purple_heart:
 
 <!--
 **Khana-Coralde/Khana-Coralde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
